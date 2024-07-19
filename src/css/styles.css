@@ -47,14 +47,15 @@ ol {
 
 /* timer */
 #datetime-picker {
-  width: 182px;
-  height: 22px;
+  width: 200px;
+  height: 40px;
   padding: 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
   font-size: 16px;
   margin-bottom: 32px;
   margin-left: 50px;
+  box-sizing: border-box;
 }
 
 .flatpickr-input {
